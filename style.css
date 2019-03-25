@@ -1,0 +1,27 @@
+h1{ color: #7b5646; }
+
+h2{
+    color: #2d679a;
+    text-decoration: underline;
+}
+
+h3{
+    color: #d35669;
+    font-style: italic;
+}
+
+table{ width: 700px; }
+
+tr{ background-color: #699f73; }
+
+tr:hover{ background-color: #f2eeba; }
+
+th{
+    background-color: #0c263c;
+    color: #fff;
+}
+
+a{ color: #20401b; }
+a:hover{ color: #b52525; }
+
+
